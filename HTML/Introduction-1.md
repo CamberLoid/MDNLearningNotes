@@ -2,6 +2,8 @@
 
 ## HTML Element
 
+HTML 元素/elements 是由 标签/Tags 和 内容 组成
+
 ## Attributes
 
 例子: `<p class='xxx'>`, 可用于CSS之类

@@ -11,3 +11,17 @@ Metadatas use `<meta attribute="">` to be contained.
 ### Specify document's char encoding
 
 Use `<meta charset="utf-8">` to define.
+
+### Add an author and description
+
+```html
+<meta name='author' content='NaN'>
+<meta name='description' content='NaN'>
+```
+
+Specify an author is beneficial to understanding who wrote this page.  
+Specify a description is good for SEO.
+
+### Others
+
+## Custom icons.
