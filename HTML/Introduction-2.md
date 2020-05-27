@@ -25,3 +25,22 @@ Specify a description is good for SEO.
 ### Others
 
 ## Custom icons.
+
+```html
+<link rel='icoon' href='yourlink'>
+```
+
+## Apply CSS and JS
+
+CSS goes:
+```html
+<link rel="stylesheet" href="my-css-file.css">
+```
+
+Script goes:
+```html
+<script src="my-js-file.js" defer></script>
+```
+
+## Languages
+
