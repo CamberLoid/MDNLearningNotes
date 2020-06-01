@@ -1,0 +1,35 @@
+body {
+    font-family: "Noto Sans";
+}
+
+h1 {
+    color: pink;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 10px dotted purple;
+}
+
+h2 {
+    font-size: 1.5em;
+    text-decoration: none, initial,initial;
+}
+
+.job-title {
+    color: #999999;
+    font-weight: bold;
+}
+
+a:link, a:visited {
+    color: #fb6542;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    background-color: gray;
+    border: 5px solid purple;
+    padding: 10em 5em 10em 3em;
+}
+    
