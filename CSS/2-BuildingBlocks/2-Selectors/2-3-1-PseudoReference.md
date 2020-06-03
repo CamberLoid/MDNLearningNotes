@@ -3,6 +3,7 @@ Ref: [Reference section](https://developer.mozilla.org/en-US/docs/Learn/CSS/Buil
 
 Pseudo-classes
 
+<!--咕咕咕, 用到再写-->
 - `:active` 当用户激活一个元素时
 - `:any-link` = `:link` + `:visited`
 - `:blank` When `<input>` is **empty**
