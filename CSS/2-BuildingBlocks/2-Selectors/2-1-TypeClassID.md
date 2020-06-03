@@ -16,6 +16,7 @@ article :first-child{}
 /*To avoid*/ article *:first-child{}
 ```
 <!--没看懂 暂时Pass-->
+<!--现在看懂了-->
 [Origin](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#Using_the_universal_selector_to_make_your_selectors_easier_to_read)  
 [Pseudo-Class/Elements Refer URL](./2-3-Pseudo-Class-Element.md)
 
